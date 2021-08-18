@@ -3,4 +3,4 @@ This is a selenium automation exercise for Translink without using the intelliJ 
 
 Language used: Java
 
-Note step 8 9 10 does not work due to Translink page issues
+Note step 8 9 are not implemented due to Translink's website
